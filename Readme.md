@@ -1,3 +1,6 @@
-### My awesome repo
+# My awesome repo
 
-Discription my shto hoshesh
+Discription my list:
+* Какая то инфа
+* Еще что то 
+* Еще инфа
